@@ -37,7 +37,8 @@ https://www.linkedin.com/learning/learning-ubuntu-desktop/
 * [Programming Robots with ROS](doc/ROS/Programming.Robots.with.ROS.A.Practical.Introduction.to.the.Robot.Operating.System.pdf) (Python)
 * [ROS for Absolute beginners](doc/ROS/2018_Book_RobotOperatingSystemROSForAbso.pdf) (C++)
 * [Robot Programming](doc/ROS/ROS_Robot_Programming_EN.pdf) (C++)
-* [Effective Robotics Programming with ROS](doc/ROS/Effective Robotics Programming with ROS.pdf) (C++) uses Turtlesim. It can be used at home
+* [Effective Robotics Programming with ROS](doc/ROS/Effective Robotics Programming with ROS.pdf) (C++) 
+    uses Turtlesim. It can be used at home
 
 
 ### Turtlebot
