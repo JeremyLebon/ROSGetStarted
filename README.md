@@ -28,7 +28,7 @@ https://www.linkedin.com/learning/learning-ubuntu-desktop/
 * Example programs python
  https://www.programiz.com/python-programming/examples
 * IDE 
- https://www.jetbrains.com/ or VScode
+ [PyCharm](https://www.jetbrains.com) or [VScode](https://code.visualstudio.com/)
 
 
 ## ROS 
