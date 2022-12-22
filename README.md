@@ -16,7 +16,8 @@ https://www.linkedin.com/learning/learning-ubuntu-desktop/
 * Learning Linux command line (Free for VIVES student)
    https://www.lynda.com/Linux-tutorials/Learning-Linux-command-line/753913/775904-4.html
    
-
+* [Introduction in ubuntu](https://www.youtube.com/watch?v=n_2jPbQornY)
+* [Ubuntu with VM on Windows](https://www.youtube.com/watch?v=NhlhJFKmzpk)
 
 
 ## Python
@@ -29,7 +30,19 @@ https://www.linkedin.com/learning/learning-ubuntu-desktop/
  https://www.programiz.com/python-programming/examples
 * IDE 
  [PyCharm](https://www.jetbrains.com) or [VScode](https://code.visualstudio.com/)
+ 
+* [Full course for beginnger](https://www.youtube.com/watch?v=rfscVS0vtbw)
+ 
+## Git
 
+[Git course](https://www.youtube.com/watch?v=8JJ101D3knE)
+
+## Docker
+
+[Docker](https://www.youtube.com/watch?v=3c-iBn73dDE)
+
+## SSH
+[SSH course](https://www.youtube.com/watch?v=qWKK_PNHnnA)
 
 ## ROS 
 
@@ -39,7 +52,7 @@ https://www.linkedin.com/learning/learning-ubuntu-desktop/
 * [Robot Programming](doc/ROS/ROS_Robot_Programming_EN.pdf) (C++)
 * [Effective Robotics Programming with ROS](doc/ROS/Effective Robotics Programming with ROS.pdf) (C++) 
     uses Turtlesim. It can be used at home
-
+* [ROS2 crash course](https://www.youtube.com/watch?v=Gg25GfA456o)
 
 ### Turtlebot
 
